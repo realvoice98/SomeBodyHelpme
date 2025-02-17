@@ -50,5 +50,8 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<img src="https://github.com/realvoice98/SomeBodyHelpme/assets/102140703/99328f73-5812-49b5-9e39-9e17e12f98ec">
+<div align=center>
+<img src="https://github.com/user-attachments/assets/089ce54c-eb9c-4b91-991f-4a321623a1ad" />
+	</div>
+
 
